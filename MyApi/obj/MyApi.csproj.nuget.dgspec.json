@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Man-Con\\Desktop\\CORSO\\GIT\\DemoMinimalApi\\MyApi\\MyApi.csproj": {}
+    "C:\\Users\\Man-Con\\Desktop\\CORSO\\Githubino\\SoldatiniDiPiombo\\MyApi\\MyApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Man-Con\\Desktop\\CORSO\\GIT\\DemoMinimalApi\\MyApi\\MyApi.csproj": {
+    "C:\\Users\\Man-Con\\Desktop\\CORSO\\Githubino\\SoldatiniDiPiombo\\MyApi\\MyApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Man-Con\\Desktop\\CORSO\\GIT\\DemoMinimalApi\\MyApi\\MyApi.csproj",
+        "projectUniqueName": "C:\\Users\\Man-Con\\Desktop\\CORSO\\Githubino\\SoldatiniDiPiombo\\MyApi\\MyApi.csproj",
         "projectName": "MyApi",
-        "projectPath": "C:\\Users\\Man-Con\\Desktop\\CORSO\\GIT\\DemoMinimalApi\\MyApi\\MyApi.csproj",
+        "projectPath": "C:\\Users\\Man-Con\\Desktop\\CORSO\\Githubino\\SoldatiniDiPiombo\\MyApi\\MyApi.csproj",
         "packagesPath": "C:\\Users\\Man-Con\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Man-Con\\Desktop\\CORSO\\GIT\\DemoMinimalApi\\MyApi\\obj\\",
+        "outputPath": "C:\\Users\\Man-Con\\Desktop\\CORSO\\Githubino\\SoldatiniDiPiombo\\MyApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
