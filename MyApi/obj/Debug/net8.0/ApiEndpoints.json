@@ -1,7 +1,7 @@
 [
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_1",
+    "ContainingType": "MyApi.Endpoints.ToDoItemsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CRegisterToDoItemsEndpoints\u003Eb__1_5",
     "RelativePath": "boom",
     "HttpMethod": "GET",
     "IsController": false,
@@ -16,8 +16,8 @@
     ]
   },
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_0",
+    "ContainingType": "MyApi.Endpoints.ToDoItemsEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CRegisterToDoItemsEndpoints\u003Eb__1_4",
     "RelativePath": "products",
     "HttpMethod": "GET",
     "IsController": false,
